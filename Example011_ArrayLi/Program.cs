@@ -40,7 +40,7 @@ int IndexOf(int[] collection, int find)
     return position;
 }
 
-int[] arrey = new int[10]; // определяем массив с названием array
+int[] array = new int[10]; // определяем массив с названием array
                              // указываем, что в массиве будет 10 эл-тов
                              // new int [10] означает "создай массив, в котором будет 10 эл-тов"
 FillArray(array);  // заполнили масив
